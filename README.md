@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Vats Mishra</h1>
+<h3 align="center">I am passionate full-stack developer.</h3>
 🌱 I’m currently learning Blockchain<br><br>👯 I’m looking to collaborate on Open Source projects<br><br>💬 Ask me about reactJS<br><br>📫 How to reach me vatsmishra2410@gmail.com
 
 
