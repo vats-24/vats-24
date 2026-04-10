@@ -2,7 +2,7 @@
 
 I'm Vats. 
 I'm interested in systems programming, distributed computing,databases and full-stack development.
-Current language of choice: **TypeScript /Golang /C++**
+Current language of choice: **TypeScript /Golang /C++**. Watch here ([Portfolio](https://vats-24.github.io/))
 
 ### Projects I'm proud of:
 * **Saarthi** ([frontend](https://github.com/vats-24/saarathi-front) | [backend](https://github.com/vats-24/saarathi-back)) — First full-stack project i built,a full-stack note sharing platform captured a **user base of 2k+ students within a week.**
