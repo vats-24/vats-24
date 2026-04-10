@@ -1,45 +1,21 @@
-# Hi, I'm Vats Mishra 👋
+# Hi there 👋
 
-**Full-Stack Developer | Blockchain Learner | Open Source Enthusiast**
+I'm Vats. 
+I'm interested in systems programming, distributed computing,databases and full-stack development.
+Current language of choice: **TypeScript /Golang /C++**
 
-I build scalable web applications and explore the future of decentralized tech. Currently focusing on mastering **ReactJS** and **Blockchain** architecture.
+### Projects I'm proud of:
+* **Saarthi** ([frontend](https://github.com/vats-24/saarathi-front) | [backend](https://github.com/vats-24/saarathi-back)) — First full-stack project i built,a full-stack note sharing platform captured a **user base of 2k+ students within a week.**
+* **Multi-tenant RBAC** ([frontend](https://github.com/vats-24/saarathi-front)) — Multi-Tenant RBAC backend.
 
-[Email Me](mailto:vatsmishra2410@gmail.com) / [LinkedIn](your-link-here) / [Twitter](your-link-here)
+### Other stuff:
+I like experimenting with different architectures. Some of these are deep dives into systems internals, others are more spontaneous full-stack builds.
+* **TokenWise** ([link](https://github.com/vats-24/npc)) — A full-stack intelligence platform for real-time monitoring and behavioral analysis of on-chain activity.
 
----
+### Technical Interests:
+* **Systems & Distributed:** Concurrency, networking, and scalable architecture.
+* **Full-Stack:** Building robust web applications with React, Node.js, and TypeScript.
+* **Storage:** Working with MongoDB,Postgres, MySQL, and exploring distributed data consistency.
 
-## 🛠️ Tech Stack
-**Frontend:** React, React Native, TypeScript, TailwindCSS, HTML5, CSS3  
-**Backend:** Node.js, Express.js, MongoDB, MySQL, Firebase  
-**Languages:** JavaScript, C, C++  
-**Deployment:** Render
-
----
-
-## 🚀 Projects
-
-### [Project Name 1](https://github.com/vats-24/project1)
-*Short, one-sentence description of what this project does and the impact it had.*
-- **Tech:** React, Node.js, MongoDB
-- **Key Feature:** Integrated XYZ for real-time data processing.
-
-### [Project Name 2](https://github.com/vats-24/project2)
-*Short, one-sentence description of what this project does.*
-- **Tech:** React Native, Firebase
-- **Key Feature:** Cross-platform mobile support with push notifications.
-
-### [Project Name 3](https://github.com/vats-24/project3)
-*Short, one-sentence description of what this project does.*
-- **Tech:** TypeScript, TailwindCSS
-- **Key Feature:** Optimized UI for 40% faster load times.
-
----
-
-## 📊 Activity
-![Vats's GitHub stats](https://github-readme-stats.vercel.app/api?username=vats-24&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vats-24&layout=compact&theme=transparent&hide_border=true)
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vats-24&icon=2&color=11" alt="visit count" />
-</p>
+### Reach me:
+* Email: [vatsmishra2410@gmail.com](mailto:vatsmishra2410@gmail.com)
