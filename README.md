@@ -10,7 +10,7 @@ Current language of choice: **TypeScript /Golang /C++**. Watch here ([Portfolio]
 
 ### Other stuff:
 I like experimenting with different architectures. Some of these are deep dives into systems internals, others are more spontaneous full-stack builds.
-* **TokenWise** ([link](https://github.com/vats-24/npc)) — A full-stack intelligence platform for real-time monitoring and behavioral analysis of on-chain activity.
+* [**TokenWise**]((https://github.com/vats-24/npc)) — A full-stack intelligence platform for real-time monitoring and behavioral analysis of on-chain activity.
 
 ### Technical Interests:
 * **Systems & Distributed:** Concurrency, networking, and scalable architecture.
