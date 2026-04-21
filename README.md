@@ -7,7 +7,8 @@ Current language of choice: **TypeScript /Golang /C++**. Watch here ([Portfolio]
 ### Projects I'm proud of:
 * **Saarthi** ([frontend](https://github.com/vats-24/saarathi-front) | [backend](https://github.com/vats-24/saarathi-back)) — First full-stack project i built,a full-stack note sharing platform captured a **user base of 2k+ students within a week.**
 * [**Multi-tenant RBAC**](https://github.com/vats-24/multi-tenant-rbac)—A production-ready, highly scalable Multi-Tenant Role-Based Access Control (RBAC) system. 
-* [**RTC Call**](https://github.com/vats-24/rtc-sample) (Ongoing) - A custom mediasoup SFU rtc.
+* [**RTC Call**](https://github.com/vats-24/rtc-sample) (Ongoing) - Interactive Broadcast System: WebRTC SFU to HLS Bridge.
+
 
 ### Other stuff:
 I like experimenting with different architectures. Some of these are deep dives into systems internals, others are more spontaneous full-stack builds.
