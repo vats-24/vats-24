@@ -20,4 +20,4 @@ I like experimenting with different architectures. Some of these are deep dives 
 * **Storage:** Working with MongoDB,Postgres, MySQL, and exploring distributed data consistency.
 
 ### Reach me:
-* Email: [vatsmishra2410@gmail.com](mailto:vatsmishra2410@gmail.com)
+* Email: [vats24dev@gmail.com](mailto:vats24dev@gmail.com)
